@@ -26,7 +26,7 @@
 1. Clone the repository:
    ```
    git clone https://github.com/your-repo/financial-market-advisor.git
-   cd financial-market-advisor
+   cd Agents
     ```
 
 2. Install the required dependencies:
